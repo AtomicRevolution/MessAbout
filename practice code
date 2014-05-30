@@ -1,0 +1,19 @@
+<DOCTYPE html>
+<head></head>
+<body>
+	<style>
+
+	</style>
+	<script>
+		var element = document.createElement("div");
+		var label = document.creatElement("label");
+		label.innerHTML = "This is a label";
+		
+		element.appendChild(label);
+		
+		document.body.appendChild(element);
+	</script>
+</body>
+
+
+</html>
