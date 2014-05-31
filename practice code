@@ -12,6 +12,8 @@
 		element.appendChild(label);
 		
 		document.body.appendChild(element);
+
+		//testing//
 	</script>
 </body>
 
